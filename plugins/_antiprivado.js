@@ -18,7 +18,7 @@ await conn.reply(m.chat, mensaje, m, { mentions: [m.sender] })
   
 } else if (user.counterPrivate === 1) {
 let grupos = [ nn, nnn, nnnt, nnntt, nnnttt ].getRandom()
-mensaje = `*@${m.sender.split`@`[0]}  𝚂𝙴 𝙼𝙴𝙽𝙲𝙸𝙾𝙽𝙾́ 𝚀𝚄𝙴 𝙽𝙾 𝚂𝙴 𝙿𝚄𝙴𝙳𝙴 𝙴𝚂𝙲𝚁𝙸𝙱𝙸𝚁 𝙿𝙾𝚁 𝙿𝚁𝙸𝚅𝙰𝙳𝙾,\n𝙿𝚄𝙴𝙳𝙴 𝚄𝙽𝙸𝚁𝚂𝙴 𝙰𝙻 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴 𝙶𝚁𝚄𝙿𝙾\n${grupos}\n\n*SI VUELVE A ESCRIBIR SERÁ BLOQUEADO(A)* ‼️\n⚠️ 𝚂𝙴𝙶𝚄𝙽𝙳𝙰 𝙰𝙳𝚅𝙴𝚁𝚃𝙴𝙽𝙲𝙸𝙰 ⚠️`
+mensaje = `*@${m.sender.split`@`[0]}  𝚂𝙴 𝙼𝙴𝙽𝙲𝙸𝙾𝙽𝙾́ 𝚀𝚄𝙴 𝙽𝙾 𝚂𝙴 𝙿𝚄𝙴𝙳𝙴 𝙴𝚂𝙲𝚁𝙸𝙱𝙸𝚁 𝙿𝙾𝚁 𝙿𝚁𝙸𝚅𝙰𝙳𝙾,\n𝙿𝚄𝙴𝙳𝙴 𝚄𝙽𝙸𝚁𝚂𝙴 𝙰𝙻 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴 𝙶𝚁𝚄𝙿𝙾\https://chat.whatsapp.com/IEWNVVzUX3Y8MPgujVU7A9\n\n*SI VUELVE A ESCRIBIR SERÁ BLOQUEADO(A)* ‼️\n⚠️ 𝚂𝙴𝙶𝚄𝙽𝙳𝙰 𝙰𝙳𝚅𝙴𝚁𝚃𝙴𝙽𝙲𝙸𝙰 ⚠️`
 await conn.reply(m.chat, mensaje, m, { mentions: [m.sender] }) 
   
 } else if (user.counterPrivate === 2) {
