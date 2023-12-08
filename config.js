@@ -109,17 +109,17 @@ global.official = [ // Agregate si eres Owner
 ["573218138672", '𝐷𝑒𝑠𝑎𝑟𝑟𝑜𝑙𝑙𝑎𝑑𝑜𝑟 𝑂𝑓𝑖𝑐𝑖𝑎𝑙', 1],  
 ["573106909511", '𝑆𝑢𝑝𝑝𝑜𝑟𝑡 𝑂𝑓𝑖𝑐𝑖𝑎𝑙', 1],
 ["573207200376", '𝐷𝑒𝑠𝑎𝑟𝑟𝑜𝑙𝑙𝑎𝑑𝑜𝑟𝑎 𝑂𝑓𝑖𝑐𝑖𝑎𝑙', 1],
-["593968585383", '𝑂𝑤𝑛𝑒𝑟', 1]]
+["593968585383", 'Colaborador', 1]]
 
 global.mail = '' //agrega tú correo
 global.desc = '' //agrega una descripción corta
 global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = '' //agrega tú país ejemplo: 🇪🇨
 
-global.pegatina = `┏━━━━━━°❀•° :°: °•❀°━━━━━━┓\n𝐁𝐎𝐓 𝐔𝐒𝐀𝐃𝐎: 𝐅𝐚𝐧𝐭𝐚𝐬𝐲𝐁𝐨𝐭-𝐌𝐃\n╔═════ °❀•°✮°•❀° ══════╗\n 𝑃𝑅𝑂𝑃𝐼𝐸𝑇𝐴𝑅𝐼𝑂(𝐀) 𝗪𝗜𝗟𝗦𝗠𝗔𝗖\n╚═════ °❀•°✮°•❀° ══════╝`
+global.pegatina = `┏━━━━━━°❀•° :°: °•❀°━━━━━━┓\n𝐁𝐎𝐓 𝐔𝐒𝐀𝐃𝐎: 𝐅𝐚𝐧𝐭𝐚𝐬𝐲𝐁𝐨𝐭-𝐌𝐃\n╔═════ °❀•°✮°•❀° ══════╗\n 𝑃𝑅𝑂𝑃𝐼𝐸𝑇𝐴𝑅𝐼𝑂(𝐀) Diego\n╚═════ °❀•°✮°•❀° ══════╝`
 global.packname = "𝑭𝒂𝒏𝒕𝒂𝒔𝒚𝑩𝒐𝒕-𝑴𝑫"
 global.author = "DIEGO"
-global.creador = `𝐵𝑦\n𝗪\n𝗜\n𝗟\n𝗠\n𝗘\n𝗥\n𝖔𝖋𝖈\n😻`
+global.creador = `𝐵𝑦\nD\n𝗜\nE\nG\nO\n𝖔𝖋𝖈\n😻`
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 
@@ -127,16 +127,16 @@ global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
 
 global.gt = "[♥︎𝐿] 𝑌 [☆D] 𝑋 𝗦𝗜𝗘𝗠𝗣𝗥𝗘"
-global.yt = "https://youtube.com/@WilSMaC"
+global.yt = "https://youtube.com/@diegobot"
 global.yt2 = "https://www.youtube.com"
-global.ig = "https://www.instagram.com/cmwilmer4"
-global.md = "https://github.com/Wilsmac/FantasyBot-MD"
+global.ig = "https://www.instagram.com/diegoer4"
+global.md = "https://github.com/diegojadibot/FantasyBot-MD"
 global.fb = "https://www.facebook.com"
 
 global.nna = 'https://whatsapp.com/channel/0029VaCUlPX0LKZAlP10pC43' //CANAL
 global.nn2 = 'https://chat.whatsapp.com/EAxOACyzjB6JhkRvQvw4zl' //anime y social
 global.nna2 = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' //información
-global.nn = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' //Grupo 1 ✓
+global.nn = 'https://chat.whatsapp.com/IEWNVVzUX3Y8MPgujVU7A9' //Grupo 1 ✓
 global.nnn = 'https://chat.whatsapp.com/CJ5nnvG1EpJAR1w7qntDKK' //Grupo 2 ^^
 global.nnnt = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' //Stickers
 global.nnntt = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' //Grupo 4
@@ -146,8 +146,8 @@ global.nnnttt2 = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' //Grupo 7 CO
 global.nnnttt3 = 'https://chat.whatsapp.com/CJ5nnvG1EpJAR1w7qntDKK' //Grupo 8 COL
 global.nnnttt4 = 'https://chat.whatsapp.com/CJ5nnvG1EpJAR1w7qntDKK' //Grupo 9 COL
 global.nnnttt5 = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' //A.T.M.M
-global.paypal = 'https://www.paypal.me/WilmerMacu'
-global.asistencia = 'Wa.me/50258115623' //Dudas? escríbeme...
+global.paypal = 'https://www.paypal.me/dierMacu'
+global.asistencia = 'Wa.me/573013114854' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -183,7 +183,7 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = "[♥︎𝐿] 𝑌 [☆𝑊] 𝑋 𝗦𝗜𝗘𝗠𝗣𝗥𝗘"
+global.wm = "[♥︎𝐿] 𝑌 [☆D] 𝑋 𝗦𝗜𝗘𝗠𝗣𝗥𝗘"
 global.igfg = "𝑭𝒂𝒏𝒕𝒂𝒔𝒚𝑩𝒐𝒕-𝑴𝑫"
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*"
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
