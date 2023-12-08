@@ -38,7 +38,7 @@
 <a href="https://github.com/Wilsmac"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=15&duration=4000&color=[00FFFF]&center=falso&vCenter=falso&lines=replit++;activa+el+bot+en" height="100px"></a> 
 </p>
 
-[![Run on Repl.it](https://repl.it/badge/github/Wilsmac/FantasyBot-MD)](https://repl.it/github/Wilsmac/FantasyBot-MD) 
+[![Run on Repl.it](https://repl.it/badge/github/Wilsmac/FantasyBot-MD)](https://repl.it/github/Wdiegojadibot/FantasyBot-MD) 
 
 ## <h1>Instalación automática por termux</h1>
  
@@ -46,7 +46,7 @@
 termux-setup-storage
 ```  
 ```ts
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/Wilsmac/FantasyBot-MD/master/Fantasy.sh | bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/diegojadibot/FantasyBot-MD/master/Fantasy.sh | bash
 ```
 
  <p align="center"> 
@@ -67,7 +67,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```
-git clone https://github.com/Wilsmac/FantasyBot-MD.git
+git clone https://github.com/diegojadibot/FantasyBot-MD.git
 ```
 ```bash
 cd FantasyBot-MD
@@ -117,10 +117,10 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 - UNIFINED NO SE HACE RESPONSABLE DEL USO, NUMEROS, PRIVACIDAD Y CONTENIDO MANDADO, USADO O GESTIONADO POR USTEDES O EL BOT
  
  ### ` DUDAS SOBRE EL BOT?, CONTACTAME`
-<a href="http://wa.me/50258115623" target="blank"><img src="https://img.shields.io/badge/UNIFINED-OFC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/573013114854" target="blank"><img src="https://img.shields.io/badge/UNIFINED-OFC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 ## `PROPIETARIO DEL BOT` 
-<a href="https://github.com/Wilsmac"><img src="https://github.com/Wilsmac.png" width="250" height="280" alt="Wilsmac"/></a>
+<a href="https://github.com/diegojadiblr"><img src="https://github.com/diegojadibot.png" width="250" height="280" alt="diegojadibot"/></a>
   
-`DESARROLLADOR DEL BOT (@WILMER OFC)`
+`DESARROLLADOR DEL BOT (@Diego OFC)`
