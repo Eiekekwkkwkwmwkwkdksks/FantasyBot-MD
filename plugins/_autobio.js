@@ -8,7 +8,7 @@ if (process.send) { process.send('uptime')
 _muptime = await new Promise(resolve => { process.once('message', resolve) 
 setTimeout(resolve, 2000) }) * 1000}
 let uptime = clockString(_uptime)
-let bio = `🎅🏻𝘍𝘢𝘯𝘵𝘢𝘴𝘺𝘉𝘰𝘵 |𝚄𝚜𝚘:𝘗𝘶𝘣𝘭𝘪𝘤𝘰 | ✅𝙰𝚌𝚝𝚒𝚟𝚒𝚍𝚊𝚍:${uptime} |ᴅɪᴇɢᴏ ᴘᴏʀ ғᴀɴᴛᴀsʏʙᴏᴛ 🔔sɪɢᴜᴇɴᴏs ᴇɴ ɴᴜᴇsᴛʀᴀs ʀᴇᴅᴇs:𝘋𝘪𝘦𝘨𝘰𝘚𝘢𝘳𝘮𝘪𝘦𝘯𝘵𝘰`
+let bio = `🎅🏻𝙰𝚌𝚝𝚒𝚟𝚒𝚍𝚊𝚍:${uptime} ❁ ᴅɪᴇɢᴏ ᴘᴏʀ ғᴀɴᴛᴀsʏʙᴏᴛ 🔔sɪɢᴜᴇɴᴏs ᴇɴ ɴᴜᴇsᴛʀᴀs ʀᴇᴅᴇs:𝘋𝘪𝘦𝘨𝘰𝘉𝘰𝘵`
 await this.updateProfileStatus(bio).catch(_ => _)
 setting.status = new Date() * 1
 } 
