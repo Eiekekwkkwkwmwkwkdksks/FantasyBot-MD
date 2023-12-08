@@ -26,7 +26,7 @@ apt-get update -y && apt-get upgrade -y
 
 pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn 
 
-git clone https://github.com/Wilsmac/FantasyBot-MD
+git clone https://github.com/diegojadibot/FantasyBot-MD
 
 cd FantasyBot-MD
 
