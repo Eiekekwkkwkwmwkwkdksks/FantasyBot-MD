@@ -14,7 +14,7 @@ let str = `*╔════════❖•ೋ° °ೋ•❖══════
 ✨ *Informate de las Novedades!!!*
 🌺 *https://chat.whatsapp.com/Ib2sXlXZgwSJPNZ6Fz3fm1*\n
 ≪━─━─━─━─◈─━─━─━─━≫
-🌺 *https://chat.whatsapp.com/IEWNVVzUX3Y8MPgujVU7A9*\n
+🌺 *https://chat.whatsapp.com/Ck5G6ypXZAp7YO7PT16QiB\n
 ≪━─━─━─━─◈─━─━─━─━≫
 🌺*${nn}*\n
 ≪━─━─━─━─◈─━─━─━─━≫
