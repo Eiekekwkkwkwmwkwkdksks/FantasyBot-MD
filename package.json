@@ -17,16 +17,16 @@
 "test": "node test.js",
 "test2": "nodemon index.js" },
     
-"homepage": "https://github.com/Wilsmac/FantasyBot-MD",
+"homepage": "https://github.com/diegojadibot/FantasyBot-MD",
 "author": {
-"name": "Wilsmac" }, 
+"name": "Diego" }, 
     
 "repository": {
 "type": "git",
- "url": "git+https://github.com/Wilsmac/FantasyBot-MD.git" },
+ "url": "git+https://github.com/diegojadibot/FantasyBot-MD.git" },
  
 "bugs": {
-"url": "https://github.com/Wilsmac/FantasyBot-MD/issues" },
+"url": "https://github.com/diegojadibot/FantasyBot-MD/issues" },
 "license": "GPL-3.0-or-later",
 "dependencies": {
 "@whiskeysockets/baileys": "^6.5.0",
