@@ -133,21 +133,21 @@ global.ig = "https://www.instagram.com/diegoer4"
 global.md = "https://github.com/diegojadibot/FantasyBot-MD"
 global.fb = "https://www.facebook.com"
 
-global.nna = 'https://whatsapp.com/channel/0029VaCUlPX0LKZAlP10pC43' //CANAL
-global.nn2 = 'https://chat.whatsapp.com/EAxOACyzjB6JhkRvQvw4zl' //anime y social
-global.nna2 = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' //información
+global.nna = 'https://whatsapp.com/channel/0029VaBLAEEKwqSSE96vwX1o' //CANAL FantasyBot-MD
+global.nn2 = 'https://chat.whatsapp.com/Ib2sXlXZgwSJPNZ6Fz3fm1' //comunidad de fantasma
+global.nna2 = 'https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A' //CANAL GATABOT
 global.nn = 'https://chat.whatsapp.com/Ck5G6ypXZAp7YO7PT16QiB' //Grupo 1 ✓
-global.nnn = 'https://chat.whatsapp.com/CJ5nnvG1EpJAR1w7qntDKK' //Grupo 2 ^^
-global.nnnt = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' //Stickers
-global.nnntt = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' //Grupo 4
-global.nnnttt = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' //Grupo 5
-global.nnnttt1 = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz'; //Grupo 6 COL
-global.nnnttt2 = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' //Grupo 7 COL
-global.nnnttt3 = 'https://chat.whatsapp.com/CJ5nnvG1EpJAR1w7qntDKK' //Grupo 8 COL
-global.nnnttt4 = 'https://chat.whatsapp.com/CJ5nnvG1EpJAR1w7qntDKK' //Grupo 9 COL
-global.nnnttt5 = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' //A.T.M.M
+global.nnn = 'https://whatsapp.com/channel/0029Va6yY0iLY6d6XDmqA03g' //Canal GataDios ^^
+global.nnnt = 'https://www.facebook.com/groups/872989990425789/?ref=share&mibextid=K8Wfd2' //InfinityWa Facebook
+global.nnntt = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' //Grupo Gays
+global.nnnttt = 'https://chat.whatsapp.com/CJ5nnvG1EpJAR1w7qntDKK' //Grupo Lesbiana
+global.nnnttt1 = 'https://chat.whatsapp.com/LCAUbkf5kUz7jSxO6FADMU'; //Grupo Curiosity
+global.nnnttt2 = 'https://chat.whatsapp.com/H4hxytyGvucIF1k0UAR7es' //Grupo NovaBot y LoliBot
+global.nnnttt3 = 'https://chat.whatsapp.com/C6sxsP2ckrr2vxMKclOeCD' //Grupo NovaBot
+global.nnnttt4 = 'https://chat.whatsapp.com/L1xzLniR6v2D9TMixqCLkx' //Grupo Prueba GB
+global.nnnttt5 = 'https://chat.whatsapp.com/KlqNmoUcVnsGJxIfATIDrK' //Grupo enlace lolibot
 global.paypal = 'https://www.paypal.me/dierMacu'
-global.asistencia = 'Wa.me/573013114854' //Dudas? escríbeme...
+global.asistencia = 'Wa.me/573013114854' //Dudas? escríbeme..
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
