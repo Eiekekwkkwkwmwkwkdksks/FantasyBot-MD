@@ -105,7 +105,7 @@ global.moment = moment
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-["52 453 128 7294", '𝐶𝑜𝑙𝑎𝑏𝑜𝑟𝑎𝑑𝑜𝑟💋', 1], 
+["573026191480", '𝐶𝑜𝑙𝑎𝑏𝑜𝑟𝑎𝑑𝑜𝑟💋', 1], 
 ["573218138672", '𝐷𝑒𝑠𝑎𝑟𝑟𝑜𝑙𝑙𝑎𝑑𝑜𝑟 𝑂𝑓𝑖𝑐𝑖𝑎𝑙', 1],  
 ["573106909511", '𝑆𝑢𝑝𝑝𝑜𝑟𝑡 𝑂𝑓𝑖𝑐𝑖𝑎𝑙', 1],
 ["573207200376", '𝐷𝑒𝑠𝑎𝑟𝑟𝑜𝑙𝑙𝑎𝑑𝑜𝑟𝑎 𝑂𝑓𝑖𝑐𝑖𝑎𝑙', 1],
@@ -136,7 +136,7 @@ global.fb = "https://www.facebook.com"
 global.nna = 'https://whatsapp.com/channel/0029VaCUlPX0LKZAlP10pC43' //CANAL
 global.nn2 = 'https://chat.whatsapp.com/EAxOACyzjB6JhkRvQvw4zl' //anime y social
 global.nna2 = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' //información
-global.nn = 'https://chat.whatsapp.com/IEWNVVzUX3Y8MPgujVU7A9' //Grupo 1 ✓
+global.nn = 'https://chat.whatsapp.com/Ck5G6ypXZAp7YO7PT16QiB' //Grupo 1 ✓
 global.nnn = 'https://chat.whatsapp.com/CJ5nnvG1EpJAR1w7qntDKK' //Grupo 2 ^^
 global.nnnt = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' //Stickers
 global.nnntt = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' //Grupo 4
@@ -183,7 +183,7 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = "[♥︎𝐿] 𝑌 [☆D] 𝑋 𝗦𝗜𝗘𝗠𝗣𝗥𝗘"
+global.wm = "Diego-Oficial"
 global.igfg = "𝑭𝒂𝒏𝒕𝒂𝒔𝒚𝑩𝒐𝒕-𝑴𝑫"
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*"
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
